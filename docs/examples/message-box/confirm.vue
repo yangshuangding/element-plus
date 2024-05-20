@@ -7,7 +7,7 @@ import { ElMessage, ElMessageBox } from 'element-plus'
 
 const open = () => {
   ElMessageBox.confirm(
-    'proxy will permanently delete the file. Continue?',
+    'proxy will permanently delete the file. Continue proxy will permanently delete the file. Continue proxy will permanently delete the file. Continue proxy will permanently delete the file. Continueproxy will permanently delete the file. Continue?',
     'Warning',
     {
       confirmButtonText: 'OK',
